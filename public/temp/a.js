@@ -1,1 +1,0 @@
-console.log("alert from a.js");
